@@ -1,0 +1,25 @@
+{
+  "name": "slider",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zhouningyi/slider",
+  "authors": [
+    "野狩 <ningyi.zny@alibaba-inc.com>"
+  ],
+  "description": "slider h5",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.15",
+    "anim":"",
+    "animate.css":"",
+    "normalize.css":"",
+    "zepto":""
+  }
+}
